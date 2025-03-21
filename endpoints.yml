@@ -11,8 +11,11 @@
 # https://rasa.com/docs/rasa/custom-actions
 
 action_endpoint:
-url: "http://localhost:5055/webhook"
+url: "http://localhost:5055/webhook"  
 
+rasa:
+  url: "https://rasa-reporasa-run-enable-api-port-5005.onrender.com/api"
+  
 # Tracker store which is used to store the conversations.
 # By default the conversations are stored in memory.
 # https://rasa.com/docs/rasa/tracker-stores
