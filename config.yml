@@ -10,8 +10,8 @@ assistant_id: 20250320-120646-hushed-tin
 # https://rasa.com/docs/rasa/nlu/components/
 language: en
 
-server:
-  port: ${PORT}
+# server:
+#   port: ${PORT}
 
 pipeline: null
 # # No configuration for the NLU pipeline was provided. The following default pipeline was used to train your model.

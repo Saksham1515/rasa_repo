@@ -10,8 +10,8 @@
 # Server which runs your custom actions.
 # https://rasa.com/docs/rasa/custom-actions
 
-action_endpoint:
-url: "http://localhost:5055/webhook"  
+# action_endpoint:
+# url: "http://localhost:5055/webhook"  
 
 rasa:
   url: "https://rasa-reporasa-run-enable-api-port-5005.onrender.com/api"
