@@ -16,7 +16,7 @@
 # rasa:
 #   url: "https://rasa-reporasa-run-enable-api-port-5005.onrender.com/api"
 rasa:
-  url: "https://rasa-repo-1.onrender.com/api"
+  url: "https://rasa-repo-1.onrender.com/webhook"
 
 # Tracker store which is used to store the conversations.
 # By default the conversations are stored in memory.
