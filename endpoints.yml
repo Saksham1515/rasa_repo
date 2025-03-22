@@ -14,8 +14,7 @@
 # url: "http://localhost:5055/webhook"  
 
 action_endpoint:
-  url: "https://rasa-repo-1.onrender.com/webhook"  
-
+  url: "https://rasa-repo-1.onrender.com:5055/webhook"  
   # url: "https://rasa-repo-1.onrender.com{PORT}/webhook"
 
 # Tracker store which is used to store the conversations.
